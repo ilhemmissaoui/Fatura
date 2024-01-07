@@ -1,0 +1,1 @@
+export default Suppliers = new Mongo.Collection("suppliers");

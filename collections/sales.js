@@ -1,0 +1,1 @@
+export default Sales = new Mongo.Collection("sales");
